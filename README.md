@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Extract the program (V1) to the folder where your teleport points (created by Korepi)  are stored OR another folder (V2-V3). This is where Korepi generates JSON files.
+1. Extract the program (V1) to the folder where your teleport points (created by Korepi)  are stored (his is where Korepi generates JSON files.) OR another folder (V2-V3). T
 2. When the program is launched, a folder named Modified_Files will be created for temporary file storage.
 
 ## Program Usage
